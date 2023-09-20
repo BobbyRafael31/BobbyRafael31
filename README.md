@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Bobby Rafael Sembiring, a passionate learner diving into the exciting realms of Game Development and Backend Development. I'm currently honing my skills to create immersive gaming experiences and robust backend systems.
+I'm Bobby Rafael Sembiring, a passionate learner diving into the exciting world of Game Development and Backend Development. I'm currently upgrading my skills to create immersive gaming experiences and robust backend systems.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BobbyRafaelSembiring) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bobbyrafa_el) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bobby-rafael) 
