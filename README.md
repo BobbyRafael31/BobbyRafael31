@@ -14,7 +14,7 @@ I'm Bobby Rafael Sembiring, a passionate learner diving into the exciting world 
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BobbyRafael31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=BobbyRafael31&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
 </p>
 
 ---
