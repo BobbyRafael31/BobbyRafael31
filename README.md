@@ -30,4 +30,4 @@ I'm Bobby Rafael Sembiring, a passionate learner diving into the exciting world 
 </div>
 
 ---
-
+![snake gif](https://github.com/BobbyRafael31/BobbyRafael31/blob/output/github-contribution-grid-snake.gif)
