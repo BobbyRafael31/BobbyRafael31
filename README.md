@@ -25,6 +25,10 @@ I'm Bobby Rafael Sembiring, a passionate learner diving into the exciting world 
 ![](https://github-profile-trophy.vercel.app/?username=BobbyRafael31&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🎵 Hey, I Like Music Too!
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ehmtdsx6gc2cdy80v78wsyaoi" />
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/user/ehmtdsx6gc2cdy80v78wsyaoi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ehmtdsx6gc2cdy80v78wsyaoi&width=800" alt="Spotify recently played">
+  </a>
+</p>
+
+
