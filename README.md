@@ -28,6 +28,3 @@ I'm Bobby Rafael Sembiring, a passionate learner diving into the exciting world 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ehmtdsx6gc2cdy80v78wsyaoi" />
 </div>
-
----
-![snake gif](https://github.com/BobbyRafael31/BobbyRafael31/blob/output/github-contribution-grid-snake.gif)
