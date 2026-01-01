@@ -23,6 +23,6 @@ I'm Bobby Rafael Sembiring, a passionate learner diving into the exciting world 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=BobbyRafael31)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=BobbyRafael31)](https://github.com/ryo-ma/github-profile-trophy)" />
 </p>
 
